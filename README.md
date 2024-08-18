@@ -53,3 +53,6 @@ If you encounter issues running the script:
 
 If problems persist, please open an issue on the GitHub repository with details of the error you're encountering.
 
+## License
+
+[MIT License]
